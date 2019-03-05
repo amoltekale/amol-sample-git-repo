@@ -1,3 +1,11 @@
-Hi friends,
-how are you?
-Thanks..
+#Hi friends,
+#how are you?
+#Thanks..
+
+
+class First {
+  public static void main(String[] arguments) {
+    System.out.println("Let's do something using Java technology.");
+  }
+}
+
